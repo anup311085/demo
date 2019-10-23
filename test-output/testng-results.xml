@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="95" started-at="2019-10-21T06:22:20Z" finished-at="2019-10-21T06:22:20Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="95" started-at="2019-10-21T06:22:20Z" finished-at="2019-10-21T06:22:20Z">
+      <class name="demo.demoTest2">
+        <test-method status="PASS" signature="add()[pri:0, instance:demo.demoTest2@4cc0edeb]" name="add" duration-ms="1" started-at="2019-10-21T06:22:20Z" finished-at="2019-10-21T06:22:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+        <test-method status="PASS" signature="div()[pri:0, instance:demo.demoTest2@4cc0edeb]" name="div" duration-ms="2" started-at="2019-10-21T06:22:20Z" finished-at="2019-10-21T06:22:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- div -->
+        <test-method status="PASS" signature="mul()[pri:0, instance:demo.demoTest2@4cc0edeb]" name="mul" duration-ms="2" started-at="2019-10-21T06:22:20Z" finished-at="2019-10-21T06:22:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mul -->
+        <test-method status="PASS" signature="sub()[pri:0, instance:demo.demoTest2@4cc0edeb]" name="sub" duration-ms="2" started-at="2019-10-21T06:22:20Z" finished-at="2019-10-21T06:22:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub -->
+      </class> <!-- demo.demoTest2 -->
+      <class name="demo.demoTest1">
+        <test-method status="PASS" signature="add()[pri:0, instance:demo.demoTest1@7823a2f9]" name="add" duration-ms="14" started-at="2019-10-21T06:22:20Z" finished-at="2019-10-21T06:22:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+        <test-method status="PASS" signature="div()[pri:0, instance:demo.demoTest1@7823a2f9]" name="div" duration-ms="2" started-at="2019-10-21T06:22:20Z" finished-at="2019-10-21T06:22:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- div -->
+        <test-method status="PASS" signature="mul()[pri:0, instance:demo.demoTest1@7823a2f9]" name="mul" duration-ms="2" started-at="2019-10-21T06:22:20Z" finished-at="2019-10-21T06:22:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mul -->
+        <test-method status="PASS" signature="sub()[pri:0, instance:demo.demoTest1@7823a2f9]" name="sub" duration-ms="2" started-at="2019-10-21T06:22:20Z" finished-at="2019-10-21T06:22:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub -->
+      </class> <!-- demo.demoTest1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
