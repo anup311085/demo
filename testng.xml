@@ -5,7 +5,9 @@
     <classes>
       <class name="demo.Amazontest"/>
       <class name="demo.demoTest1"/>
+      <class name="demo.demoTest4"/>
       <class name="demo.demoTest2"/>
+      <class name="demo.demoTest3"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
