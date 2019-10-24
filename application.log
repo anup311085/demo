@@ -15,3 +15,5 @@
 2019-10-23 16:47:45 ERROR [main] (demoTest1.java:35)- ----------this is error messege-------
 2019-10-24 11:25:01 FATAL [main] (demoTest1.java:41)- ----------this is fatal messege-------
 2019-10-24 11:25:01 ERROR [main] (demoTest1.java:35)- ----------this is error messege-------
+2019-10-24 13:04:07 FATAL [main] (demoTest1.java:41)- ----------this is fatal messege-------
+2019-10-24 13:04:07 ERROR [main] (demoTest1.java:35)- ----------this is error messege-------

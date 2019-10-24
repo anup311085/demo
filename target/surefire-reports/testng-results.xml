@@ -2,7 +2,7 @@
 <testng-results skipped="0" failed="0" ignored="0" total="18" passed="18">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="199" started-at="2019-10-24T05:55:01Z" finished-at="2019-10-24T05:55:01Z">
+  <suite name="Suite" duration-ms="160" started-at="2019-10-24T07:34:07Z" finished-at="2019-10-24T07:34:07Z">
     <groups>
       <group name="unit">
         <method signature="demoTest1.add()[pri:0, instance:demo.demoTest1@337d0578]" name="add" class="demo.demoTest1"/>
@@ -12,93 +12,93 @@
         <method signature="demoTest1.mul()[pri:0, instance:demo.demoTest1@337d0578]" name="mul" class="demo.demoTest1"/>
       </group> <!-- anup -->
     </groups>
-    <test name="Test" duration-ms="199" started-at="2019-10-24T05:55:01Z" finished-at="2019-10-24T05:55:01Z">
+    <test name="Test" duration-ms="160" started-at="2019-10-24T07:34:07Z" finished-at="2019-10-24T07:34:07Z">
       <class name="demo.Amazontest">
-        <test-method status="PASS" signature="sub()[pri:0, instance:demo.Amazontest@61a485d2]" name="sub" duration-ms="3" started-at="2019-10-24T05:55:01Z" finished-at="2019-10-24T05:55:01Z">
+        <test-method status="PASS" signature="sub()[pri:0, instance:demo.Amazontest@61a485d2]" name="sub" duration-ms="1" started-at="2019-10-24T07:34:07Z" finished-at="2019-10-24T07:34:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- sub -->
       </class> <!-- demo.Amazontest -->
       <class name="demo.demoTest4">
-        <test-method status="PASS" signature="add()[pri:0, instance:demo.demoTest4@59e84876]" name="add" duration-ms="1" started-at="2019-10-24T05:55:01Z" finished-at="2019-10-24T05:55:01Z">
+        <test-method status="PASS" signature="add()[pri:0, instance:demo.demoTest4@59e84876]" name="add" duration-ms="1" started-at="2019-10-24T07:34:07Z" finished-at="2019-10-24T07:34:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- add -->
-        <test-method status="PASS" signature="div()[pri:0, instance:demo.demoTest4@59e84876]" name="div" duration-ms="1" started-at="2019-10-24T05:55:01Z" finished-at="2019-10-24T05:55:01Z">
+        <test-method status="PASS" signature="div()[pri:0, instance:demo.demoTest4@59e84876]" name="div" duration-ms="1" started-at="2019-10-24T07:34:07Z" finished-at="2019-10-24T07:34:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- div -->
-        <test-method status="PASS" signature="mul()[pri:0, instance:demo.demoTest4@59e84876]" name="mul" duration-ms="0" started-at="2019-10-24T05:55:01Z" finished-at="2019-10-24T05:55:01Z">
+        <test-method status="PASS" signature="mul()[pri:0, instance:demo.demoTest4@59e84876]" name="mul" duration-ms="1" started-at="2019-10-24T07:34:07Z" finished-at="2019-10-24T07:34:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- mul -->
-        <test-method status="PASS" signature="sub()[pri:0, instance:demo.demoTest4@59e84876]" name="sub" duration-ms="0" started-at="2019-10-24T05:55:01Z" finished-at="2019-10-24T05:55:01Z">
+        <test-method status="PASS" signature="sub()[pri:0, instance:demo.demoTest4@59e84876]" name="sub" duration-ms="0" started-at="2019-10-24T07:34:07Z" finished-at="2019-10-24T07:34:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- sub -->
       </class> <!-- demo.demoTest4 -->
       <class name="demo.demoTest2">
-        <test-method status="PASS" signature="add()[pri:0, instance:demo.demoTest2@39fb3ab6]" name="add" duration-ms="0" started-at="2019-10-24T05:55:01Z" finished-at="2019-10-24T05:55:01Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- add -->
-        <test-method status="PASS" signature="div()[pri:0, instance:demo.demoTest2@39fb3ab6]" name="div" duration-ms="0" started-at="2019-10-24T05:55:01Z" finished-at="2019-10-24T05:55:01Z">
+        <test-method status="PASS" signature="div()[pri:0, instance:demo.demoTest2@39fb3ab6]" name="div" duration-ms="1" started-at="2019-10-24T07:34:07Z" finished-at="2019-10-24T07:34:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- div -->
-        <test-method status="PASS" signature="mul()[pri:0, instance:demo.demoTest2@39fb3ab6]" name="mul" duration-ms="0" started-at="2019-10-24T05:55:01Z" finished-at="2019-10-24T05:55:01Z">
+        <test-method status="PASS" signature="add()[pri:0, instance:demo.demoTest2@39fb3ab6]" name="add" duration-ms="0" started-at="2019-10-24T07:34:07Z" finished-at="2019-10-24T07:34:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+        <test-method status="PASS" signature="mul()[pri:0, instance:demo.demoTest2@39fb3ab6]" name="mul" duration-ms="1" started-at="2019-10-24T07:34:07Z" finished-at="2019-10-24T07:34:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- mul -->
-        <test-method status="PASS" signature="sub()[pri:0, instance:demo.demoTest2@39fb3ab6]" name="sub" duration-ms="0" started-at="2019-10-24T05:55:01Z" finished-at="2019-10-24T05:55:01Z">
+        <test-method status="PASS" signature="sub()[pri:0, instance:demo.demoTest2@39fb3ab6]" name="sub" duration-ms="1" started-at="2019-10-24T07:34:07Z" finished-at="2019-10-24T07:34:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- sub -->
       </class> <!-- demo.demoTest2 -->
       <class name="demo.demoTest3">
-        <test-method status="PASS" signature="add()[pri:0, instance:demo.demoTest3@6276ae34]" name="add" duration-ms="1" started-at="2019-10-24T05:55:01Z" finished-at="2019-10-24T05:55:01Z">
+        <test-method status="PASS" signature="add()[pri:0, instance:demo.demoTest3@6276ae34]" name="add" duration-ms="0" started-at="2019-10-24T07:34:07Z" finished-at="2019-10-24T07:34:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- add -->
-        <test-method status="PASS" signature="div()[pri:0, instance:demo.demoTest3@6276ae34]" name="div" duration-ms="3" started-at="2019-10-24T05:55:01Z" finished-at="2019-10-24T05:55:01Z">
+        <test-method status="PASS" signature="div()[pri:0, instance:demo.demoTest3@6276ae34]" name="div" duration-ms="0" started-at="2019-10-24T07:34:07Z" finished-at="2019-10-24T07:34:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- div -->
-        <test-method status="PASS" signature="mul()[pri:0, instance:demo.demoTest3@6276ae34]" name="mul" duration-ms="1" started-at="2019-10-24T05:55:01Z" finished-at="2019-10-24T05:55:01Z">
+        <test-method status="PASS" signature="mul()[pri:0, instance:demo.demoTest3@6276ae34]" name="mul" duration-ms="0" started-at="2019-10-24T07:34:07Z" finished-at="2019-10-24T07:34:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- mul -->
-        <test-method status="PASS" signature="sub()[pri:0, instance:demo.demoTest3@6276ae34]" name="sub" duration-ms="0" started-at="2019-10-24T05:55:01Z" finished-at="2019-10-24T05:55:01Z">
+        <test-method status="PASS" signature="sub()[pri:0, instance:demo.demoTest3@6276ae34]" name="sub" duration-ms="0" started-at="2019-10-24T07:34:07Z" finished-at="2019-10-24T07:34:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- sub -->
       </class> <!-- demo.demoTest3 -->
       <class name="demo.demoTest1">
-        <test-method status="PASS" signature="start_log()[pri:0, instance:demo.demoTest1@337d0578]" name="start_log" is-config="true" duration-ms="120" started-at="2019-10-24T05:55:01Z" finished-at="2019-10-24T05:55:01Z">
+        <test-method status="PASS" signature="start_log()[pri:0, instance:demo.demoTest1@337d0578]" name="start_log" is-config="true" duration-ms="91" started-at="2019-10-24T07:34:07Z" finished-at="2019-10-24T07:34:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- start_log -->
-        <test-method status="PASS" signature="start_log()[pri:0, instance:demo.demoTest4@59e84876]" name="start_log" is-config="true" duration-ms="6" started-at="2019-10-24T05:55:01Z" finished-at="2019-10-24T05:55:01Z">
+        <test-method status="PASS" signature="start_log()[pri:0, instance:demo.demoTest4@59e84876]" name="start_log" is-config="true" duration-ms="6" started-at="2019-10-24T07:34:07Z" finished-at="2019-10-24T07:34:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- start_log -->
-        <test-method status="PASS" signature="add()[pri:0, instance:demo.demoTest1@337d0578]" name="add" duration-ms="1" started-at="2019-10-24T05:55:01Z" finished-at="2019-10-24T05:55:01Z">
+        <test-method status="PASS" signature="add()[pri:0, instance:demo.demoTest1@337d0578]" name="add" duration-ms="1" started-at="2019-10-24T07:34:07Z" finished-at="2019-10-24T07:34:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- add -->
-        <test-method status="PASS" signature="all_methods()[pri:0, instance:demo.demoTest1@337d0578]" name="all_methods" duration-ms="1" started-at="2019-10-24T05:55:01Z" finished-at="2019-10-24T05:55:01Z">
+        <test-method status="PASS" signature="all_methods()[pri:0, instance:demo.demoTest1@337d0578]" name="all_methods" duration-ms="1" started-at="2019-10-24T07:34:07Z" finished-at="2019-10-24T07:34:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- all_methods -->
-        <test-method status="PASS" signature="div()[pri:0, instance:demo.demoTest1@337d0578]" name="div" duration-ms="6" started-at="2019-10-24T05:55:01Z" finished-at="2019-10-24T05:55:01Z">
+        <test-method status="PASS" signature="div()[pri:0, instance:demo.demoTest1@337d0578]" name="div" duration-ms="8" started-at="2019-10-24T07:34:07Z" finished-at="2019-10-24T07:34:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- div -->
-        <test-method status="PASS" signature="mul()[pri:0, instance:demo.demoTest1@337d0578]" name="mul" duration-ms="1" started-at="2019-10-24T05:55:01Z" finished-at="2019-10-24T05:55:01Z">
+        <test-method status="PASS" signature="mul()[pri:0, instance:demo.demoTest1@337d0578]" name="mul" duration-ms="1" started-at="2019-10-24T07:34:07Z" finished-at="2019-10-24T07:34:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- mul -->
-        <test-method status="PASS" signature="sub()[pri:0, instance:demo.demoTest1@337d0578]" name="sub" duration-ms="0" started-at="2019-10-24T05:55:01Z" finished-at="2019-10-24T05:55:01Z">
+        <test-method status="PASS" signature="sub()[pri:0, instance:demo.demoTest1@337d0578]" name="sub" duration-ms="1" started-at="2019-10-24T07:34:07Z" finished-at="2019-10-24T07:34:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- sub -->
