@@ -11,6 +11,7 @@ public class demoTest1 {
 		
 	 Logger logger = Logger.getLogger(demoTest1.class.getName());
 	 
+	 
 	 @BeforeTest
 	    public void start_log() {
 			PropertyConfigurator.configure("./log4j.properties");

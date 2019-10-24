@@ -6,3 +6,10 @@
 2019-10-23 14:35:43 DEBUG [main] (demoTest1.java:46)- ----------this is fatal messege-------
 2019-10-23 14:35:43 FATAL [main] (demoTest1.java:40)- ----------this is fatal messege-------
 2019-10-23 14:35:43 ERROR [main] (demoTest1.java:34)- ----------this is error messege-------
+2019-10-23 16:46:59  INFO [main] (demoTest1.java:23)- ----------this is info messege-------
+2019-10-23 16:46:59 DEBUG [main] (demoTest1.java:47)- ----------this is fatal messege-------
+2019-10-23 16:46:59 FATAL [main] (demoTest1.java:41)- ----------this is fatal messege-------
+2019-10-23 16:46:59 ERROR [main] (demoTest1.java:35)- ----------this is error messege-------
+2019-10-23 16:46:59  INFO [main] (demoTest4.java:18)- ----------this is info messege-------
+2019-10-23 16:47:45 FATAL [main] (demoTest1.java:41)- ----------this is fatal messege-------
+2019-10-23 16:47:45 ERROR [main] (demoTest1.java:35)- ----------this is error messege-------
