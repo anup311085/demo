@@ -6,7 +6,7 @@ import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
 public class demoTest4 {
-	Logger logger = Logger.getLogger(demoTest1.class.getName());
+	Logger logger = Logger.getLogger(demoTest4.class.getName());
 	
 	 @BeforeTest
 	    public void start_log() {
