@@ -1,1 +1,8 @@
+com\demo\genrics\GenricLib.class
+com\demo\genrics\ExcelUtility.class
+com\demo\webutils\BrowserFactory.class
+com\demo\genrics\SeleniumLib.class
+demo\array.class
 demo\Amazontest.class
+demo\arr1.class
+demo\program1.class

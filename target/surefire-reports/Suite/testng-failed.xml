@@ -5,9 +5,8 @@
     <classes>
       <class name="demo.demoTest1">
         <methods>
-          <include name="sub"/>
-          <include name="teardown"/>
           <include name="start_log"/>
+          <include name="printData" invocation-numbers="0 1"/>
         </methods>
       </class> <!-- demo.demoTest1 -->
     </classes>
