@@ -19,7 +19,7 @@ public class GenricLib {
 		value=p.getProperty(key);
 		}
 		catch(IOException e) {
-			System.out.println("file not found at specified location10");
+			System.out.println("file not found at specified location101");
 		}
 		
 		
